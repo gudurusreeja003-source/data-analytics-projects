@@ -1,35 +1,42 @@
-# Superstore Sales Analysis Dashboard
+# Superstore Sales Analysis
 
 ## 📌 Objective
-To analyze Superstore sales data and identify insights about regional performance, product categories, and customer trends.
+To analyze Superstore sales data (10k+ records) and identify insights about regional performance, product categories, monthly trends, and top products.
 
 ## 🛠 Tools Used
-- Excel (data cleaning, pivot tables)
-- Power BI (dashboard & visualization)
+- Google Sheets / Excel  
+  (Data cleaning, pivot tables, charts)
 
-## 📊 Steps
-1. Imported dataset of 10k+ sales records.
-2. Cleaned missing values, standardized categories, formatted dates.
-3. Created KPIs:
-   - Total Sales
-   - Profit
-   - Average Order Value
-   - Number of Orders
-4. Built interactive dashboard with:
-   - Sales by Region
-   - Category-wise Profit
-   - Top 10 Products
-   - Monthly Trends
+## 📊 Steps Performed
+1. Imported dataset (~9,995 sales records).  
+2. Cleaned the data:  
+   - Added helper columns (OrderCount, Year, Month)  
+   - Formatted dates for analysis  
+3. Built pivot tables and charts:  
+   - Sales by Region (Bar chart)  
+   - Profit by Category (Column chart)  
+   - Monthly Sales Trend (Line chart)  
+   - Top 10 Products by Sales (Column chart)  
 
 ## 🔑 Insights
-- West region generated the highest revenue.
-- Technology category was most profitable.
-- Seasonal spikes in sales around year-end.
+- **West region** generated the highest sales.  
+- **Technology** category was the most profitable.  
+- Clear **seasonal spikes** in sales around year-end (Nov–Dec).  
+- Top products drove a significant share of overall revenue.  
 
 ## 📂 Files
-- `dataset.csv`
-- `superstore_dashboard.pbix`
-- `analysis.xlsx`
+- `Superstore_Sales_Analysis.xlsx` → cleaned data, pivots, charts  
+- `screenshots/` → exported charts for quick view  
 
-## 📷 Sample Output
-*(Add dashboard screenshot here later)*
+## 📸 Visuals
+### Sales by Region
+![Sales by Region](screenshots/sales_by_region.png)
+
+### Profit by Category
+![Profit by Category](screenshots/profit_by_category.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
+
+### Top 10 Products by Sales
+![Top 10 Products](screenshots/top_10_products.png)
