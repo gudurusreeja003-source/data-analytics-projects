@@ -28,18 +28,20 @@ To analyze Superstore sales data (10k+ records) and identify insights about regi
 - `Superstore_Sales_Analysis.xlsx` → cleaned data, pivots, charts  
 - `screenshots/` → exported charts for quick view  
 
-## 📸 Visuals
-### Sales by Region
+
+## 📸 Visuals (Excel Analysis)
+
+### 🗺️ Sales by Region
 ![Sales by Region](screenshots/sales_by_region.png)
 
-### Profit by Category
-![Profit by Category](screenshots/profit_by_category.png)
+### 💰 Profit by Category
+![Profit by Category](screenshots/Profit%20by%20Category.png)
 
-### Monthly Sales Trend
-![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
+### 📈 Monthly Sales Trend
+![Monthly Sales Trend](screenshots/monthly%20sales%20trend.png)
 
-### Top 10 Products by Sales
-![Top 10 Products](screenshots/top_10_products.png)
+### 🏆 Top 10 Products by Sales
+![Top 10 Products](screenshots/SUM%20of%20Sales.png)
 
 
 
