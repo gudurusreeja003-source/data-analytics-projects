@@ -63,7 +63,8 @@ After completing the Excel-based analysis, I built an **interactive Power BI das
 
 ### Dashboard
 
-📁 **Power BI File:** [Superstore_Sales_Dashboard.pbix](Powerstore_Sales_Dashboard.pbix)
+### 📂 [Download Power BI Dashboard File (.pbix)](sales_dashboard.pbix)
+
 
 ---
 
