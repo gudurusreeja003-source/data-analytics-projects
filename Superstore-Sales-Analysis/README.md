@@ -66,13 +66,8 @@ After completing the Excel-based analysis, I built an **interactive Power BI das
 ---
 
 ### 🖼️ Dashboard Preview
-| KPI Section | Monthly Trend |
-|--------------|----------------|
-| ![KPI Preview](Screenshot1.png) | ![Monthly Sales](Screenshot2.png) |
+![Power BI Dashboard](screenshots/sales%20pbi%20SS.png)
 
-| Regional View | Category View |
-|----------------|----------------|
-| ![Region Sales](Screenshot3.png) | ![Category Profit](Screenshot4.png) |
 
 ---
 
