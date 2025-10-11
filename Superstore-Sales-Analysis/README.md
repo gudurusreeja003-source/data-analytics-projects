@@ -40,3 +40,59 @@ To analyze Superstore sales data (10k+ records) and identify insights about regi
 
 ### Top 10 Products by Sales
 ![Top 10 Products](screenshots/top_10_products.png)
+
+
+
+---
+
+## 📊 Power BI Dashboard – Superstore Sales Analysis
+
+After completing the Excel-based analysis, I built an **interactive Power BI dashboard** using the same Superstore dataset to visualize key business insights dynamically.
+
+### 🎯 Key Features
+- KPI Cards for **Total Sales**, **Total Profit**, **Total Orders**, and **Average Order Value**
+- Interactive **Slicers** for Year, Quarter, and Region
+- **Monthly Sales Trend** (line chart)
+- **Sales by Region** (bar chart)
+- **Profit by Category** (column chart)
+- **Top 10 Products by Sales** (horizontal bar chart)
+
+---
+
+### Dashboard
+
+📁 **Power BI File:** [Superstore_Sales_Dashboard.pbix](Powerstore_Sales_Dashboard.pbix)
+
+---
+
+### 🖼️ Dashboard Preview
+| KPI Section | Monthly Trend |
+|--------------|----------------|
+| ![KPI Preview](Screenshot1.png) | ![Monthly Sales](Screenshot2.png) |
+
+| Regional View | Category View |
+|----------------|----------------|
+| ![Region Sales](Screenshot3.png) | ![Category Profit](Screenshot4.png) |
+
+---
+
+### 🧠 Tools & Skills Demonstrated
+- **Power BI** – Dashboard design, data modeling, and interactivity  
+- **DAX** – Calculated measures for KPIs and trend metrics  
+- **Excel** – Data cleaning, transformation, and export  
+- **Storytelling** – Business insights communicated via visuals
+
+---
+
+### 💡 Insights from Power BI Dashboard
+- West region still dominates sales, confirming Excel analysis  
+- Technology continues to drive highest profits  
+- Clear seasonal pattern visible in Q4 months  
+- Enhanced visualization provides deeper understanding of trends
+
+---
+
+### 🧩 Summary
+> This project demonstrates the full **end-to-end data analysis workflow**:
+> from raw Excel data cleaning → to Power BI dashboard visualization → to actionable insights.
+
