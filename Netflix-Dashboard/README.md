@@ -29,8 +29,10 @@ This Power BI dashboard analyzes the Netflix Titles dataset, visualizing trends 
 - Rapid library growth after 2015.
 
 ## Files
-- `Netflix_Dashboard_Sreeja.pbix` — Power BI project file
-- `Netflix_dashboard_full.png` — full dashboard screenshot
+- [Download the Power BI file (pbix)](Netflix_Dashboard_Sreeja.pbix)
+
+## Screenshots
+![Full dashboard screenshot](Netflix_dashboard_full.png)
 
 ## Author
 Sreeja G — Aspiring Data Analyst | Power BI | SQL | Excel
