@@ -27,12 +27,11 @@ This Power BI dashboard analyzes the Netflix Titles dataset, visualizing trends 
 - Drama, Comedy, Documentary are top genres.
 - United States and India have the highest number of titles.
 - Rapid library growth after 2015.
-
 ## Files
 - [Download the Power BI file (pbix)](Netflix_Dashboard_Sreeja.pbix)
 
 ## Screenshots
-![Full dashboard screenshot](Netflix_dashboard_full.png)
+![Full dashboard screenshot](Netflix_dashboard_full.png.png)
 
 ## Author
 Sreeja G — Aspiring Data Analyst | Power BI | SQL | Excel
