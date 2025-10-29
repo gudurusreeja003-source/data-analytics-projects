@@ -1,2 +1,2 @@
-#Super store sales Dashboard
+# Super store sales Dashboard #
 Portfolio of Data Analytics Projects 
