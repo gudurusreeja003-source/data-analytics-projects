@@ -1,2 +1,2 @@
-# data-analytics-projects
-Portfolio of Data Analytics Projects (Superstore, Netflix)
+#Super store sales Dashboard
+Portfolio of Data Analytics Projects 
